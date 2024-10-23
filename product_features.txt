@@ -1,0 +1,691 @@
+Tổng hợp thông tin sản phẩm từ https://www.geovision.com.tw/products.php?c2=84
+
+
+URL: https://www.geovision.com.tw/product/GV-Control%20Center
+Up to 9 Live View windows to monitor videos from 900 camera channels
+Remote Desktop to access the desktop of a client server from afar
+I/O Central Panel to group and manage I/O devices from different hosts
+Event popup display
+Remote Playback
+Face Recognition Watch to monitor FR events from GV-AI FR and FR cameras of GV-VMS
+ASManager View to monitor access control and LPR events from GV-ASManager
+Storyline recording
+Audio broadcast
+3D E-Map
+Support for GV-Decoder Box for additional monitor display
+Support for GV-Live Streaming for streaming from Android / iOS mobile device cameras
+Video Wall (optional)
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Center%20V2%20Pro
+Up to 5 subscribers and a total of 160 channels (standard version)
+Up to 500 subscribers and a total of 800 channels (Pro version; license required)
+Live images and text messages upon alert events: video lost, motion detection, I/O module lost, I/O triggered, connection lost, subscriber login/logout, surveillance system abnormality, intruder, missing object, unattended object, POS loss prevention, disk full and more
+Alert notifications via alarms, SMS, and e-mails
+Two-way audio communication, Remote PTZ and Remote I/O Control
+Subscriber information on the number of cameras and I/O devices with their status
+Multiple monitor support for the main screen, event list, and alert events
+Subscriber schedule for monitoring period and alerts when not followed
+Alarm reports to detail the course of events
+E-Map alerts displaying the locations of triggered cameras and I/O devices
+Event charts for daily, weekly, and monthly statistical analysis
+Failover server for continuous monitoring
+RSA and AES encryption for a secured network
+7 types of event messages: alarm, video attachment, connection status, motion detection, subscriber login/logout history, system status, and module trigger
+Video attachment by event
+Event flags for filtering and organizing events
+Event log search
+Backup in Access format for later retrievals
+Customized event tabs and message colors (Pro version only)
+Automatic video recording upon user-selected alert events, e.g. motion and I/O triggers
+Pre- and post-alarm video recording
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Center%20V2
+Up to 5 subscribers and a total of 160 channels (standard version)
+Up to 500 subscribers and a total of 800 channels (Pro version; license required)
+Live images and text messages upon alert events: video lost, motion detection, I/O module lost, I/O triggered, connection lost, subscriber login/logout, surveillance system abnormality, intruder, missing object, unattended object, POS loss prevention, disk full and more
+Alert notifications via alarms, SMS, and e-mails
+Two-way audio communication, Remote PTZ and Remote I/O Control
+Subscriber information on the number of cameras and I/O devices with their status
+Multiple monitor support for the main screen, event list, and alert events
+Subscriber schedule for monitoring period and alerts when not followed
+Alarm reports to detail the course of events
+E-Map alerts displaying the locations of triggered cameras and I/O devices
+Event charts for daily, weekly, and monthly statistical analysis
+Failover server for continuous monitoring
+RSA and AES encryption for a secured network
+7 types of event messages: alarm, video attachment, connection status, motion detection, subscriber login/logout history, system status, and module trigger
+Video attachment by event
+Event flags for filtering and organizing events
+Event log search
+Backup in Access format for later retrievals
+Customized event tabs and message colors (Pro version only)
+Automatic video recording upon user-selected alert events, e.g. motion and I/O triggers
+Pre- and post-alarm video recording
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Dispatch%20Server
+Up to 50 GV-Center V2 servers, a maximum of 25,000 subscribers and 40,000 channels
+Network load balancing: distribute video and alert events from subscribers to GV-Center V2 servers by Group or with fewer subscribers
+Real-time GV-Center V2 events and video attachments
+GV-Center V2 online and offline status monitoring and control
+Live view from and two-way audio with subscribers
+Subscriber schedule for monitoring period and alerts when not followed
+Event charts for daily, weekly, and monthly statistical analysis
+GV-Center V2 and Dispatch Server event logs
+Event log search
+Remote playback of subscriber recordings
+Event flags for filtering and organizing events
+Failover server for continuous monitoring
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Vital%20Sign%20Monitor
+Subscriber schedule for monitoring period and alerts when not followed
+Event logs of system service, connection, login/logout, I/O trigger, motion detection, and alert events
+Event log search
+Notifications and alarms upon events: video lost, motion detection, I/O module lost, I/O triggered, connection lost, subscriber login/logout, surveillance system abnormality, intruder, missing object, unattended object, POS loss prevention, disk full and more
+Alert notifications via alarms, SMS, and e-mails
+Remote playback of subscriber recordings
+Customized event tabs and message colors
+Event charts for daily, weekly, and monthly statistical analysis
+Alarm reports to detail the course of events
+Failover server for continuous monitoring
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Video%20Gateway
+Up to 256 IP channels receiving and up to 600 IP channels distributing
+Video gateway between IP devices and receiving clients (GV-VMS, GV-NVR, GV-Control Center, GV-Edge Recording Manager, GV-Eye and others)
+Support for 3rd party IP cameras (Sony, Axis, VIVOTEK, Panasonic, HikVision, Arecont Vision) and ONVIF / PSIA / RTSP protocols
+Bandwidth monitoring
+Two-way audio communication
+Remote configuration and monitoring using any web browser
+Alert status monitoring through GV-Vital Sign Monitor
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Video%20Wall
+Up to 288 IP channels display
+Actual size IP images display
+Adjust the size and position of each channel whether it be within or across monitors
+6 zoomed channels with Zoom Windows
+16 Scan Windows, each displaying up to 64 channels in turn, at custom time interval
+16 web pages with Web Windows
+16 videos with Media Windows
+16 video playback windows
+288 channels of customized view region of remote monitors
+Live views display enabled from Remote E-Map
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Mobile%20Server
+Live view of analog cameras (connected to GV-System)
+Up to 4 Matrix channels, each with 36 cameras
+Motion popup on Matrix View
+Dual streams
+Fisheye dewarping
+CPU load and bandwidth usage reduced on IP video devices
+User-configurable frame rate, quality, codec type and resolution for each camera stream
+Remote access to live view using non-IE browsers
+Support for up to 64 channels
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-AI%20FR
+Support for up to 8 channels of IP cameras
+Realtime face recognition and tracking
+Masked face recognition
+Average recognition speed of within 1 second per face when the recognition targets are moving toward the cameras
+Face Database managing up to 100,000 Face Profiles with 3 face images per profile
+Face profiling by age and gender
+Liveness detection for ensuring the persons recognized are not of inanimate objects, such as printed photos, during recognition
+Automatic compilation of statistical graphs for the number and distribution of ages and genders of the faces recognized entering and exiting the premise
+Exportable daily / weekly / monthly / yearly hourly face recognition count
+Query by face recognition events
+Integration of GV-VMS for video recording and playing back face recognition events
+Integration of GV-ASManager for access management by pairing access data to Face Profiles
+Master and Slave feature for interconnecting multiple GV-AI FRs with a centralized Face Database
+Support for connecting to 3rd-party controllers for access management via GV-FWC within the LAN and/or GV-COM V3 + GV-WTR by physical connection
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-LPR
+Up to 255 units of GV-DSP LPR, Edge GV-IP LPR Cameras, and PC-based GV-DVR / VMS LPR
+Up to 8 recognition channels per GV-DVR LPR / GV-VMS LPR
+Up to 100,000 vehicle data supported
+Up to 100 Web browser connections
+Multiple vehicles per user
+Import / export of vehicle data in Access or Excel file format
+Vehicle hotlist to identify stolen vehicles or other vehicles of interest
+Parking lot management to regulate vehicle access, parking space availability, parking duration allowed, anti-passback, as well as shared parking
+Various notifications upon LPR events: e-mail, alarm, trigger recording, push notification, popup message
+GV-ASWeb to remotely access LPR settings and logs
+GV-Access mobile app to remotely monitor the alert status of each lane, open parking gates and access live view
+User Interfaces supported in English, French, Hebrew, Japanese, Persian, Polish, Portuguese, Russian, Serbian, Spanish, Traditional Chinese, and Turkish
+DL (Deep Learning) engines supported for PC-based LPR in Europe, France, Germany, Hungary, Israel, Italy, Netherlands, Slovakia, Taiwan, UK, Ukraine, USA (California, Georgia), and Vietnam
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-AI%20Server
+Support for up to 8 channels of IP cameras
+Realtime face recognition and tracking
+Realtime masked face recognition and tracking
+Average recognition speed of within 1 second per face when the recognition targets are moving toward the cameras
+Face profiling by age and gender
+Product Attention with heatmap display for monitoring product interest by foot traffic
+Short Inventory monitoring and alert
+Queue Management for monitoring the cashier checkout time and the number of persons waiting in line
+Suspect & Loitering Detection
+Human Counter for counting the number of people that enter and exit at the vicinity
+Support for AI-capable GV-IP cameras and GV-3D People Counter V2 for collecting people flow data In / Out / Stay
+Automatic compilation of statistical graphs for each type of VA event
+Exportable daily / weekly / monthly / yearly hourly face recognition count
+Query by VA events
+Integration of GV-VMS for video recording and playing back face recognition events
+Master and Slave feature for interconnecting multiple GV-AI Servers with a centralized Face Database
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-AI%20Guard
+PVD Motion Detection of up to 16 CH for identifying human and vehicle motion from other moving objects (up to 32 CH with GV-AI Accelerator Module)
+Up to 16 camera channels for basic AI video analytics and 8 camera channels for advanced AI video abalytics
+Intrusion Detection for triggering alarms when people or vehicles across defined areas
+Loitering for detecting people or vehicles caught staying at no standing areas
+Social Distancing Detection for alerting people not keeping a safe distance from each other
+Personal Protective Equipment Detection for alerting people not wearing hard hats / vests before entering a construction site
+Face Mask Detection for alerting people not wearing masks
+Crowd Detection for detecting overcrowding of people or vehicles
+LPR recognition for vehicle loitering for up to 15 countries/areas
+Cross Line Detection for detecting people / vehicle crossing set lines in the set direction
+Enter / Leave Area Detection for detecting people / vehicle entering / leaving predefined areas
+Counter for people / vehicle counting
+Mandatory Crossroad Stopping for detecting vehicles violating safety rules by not stopping at predefined areas
+Wrong-way Detection for detecting vehicles passing the detection line in the wrong direction
+Event alerts: alarm output, e‐mail notification, computer noise alarm, LINE / Telegram notification
+Popup live veiw upon AI events
+Query by AI events
+AI event detection schedule
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-AS Bridge
+Up to 8 readers connection via GV-AS Controller
+Up to 8 RS-485 GV-Reader connection (GV-DFK1355)
+Up to 4-door access control
+Access logs and event images upload onto GV-Cloud Access Control
+Live view display of connected IP cameras on GV-Cloud Access Control
+Stores up to 100,000 cards
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-AS1620
+One door IP controller (entry and exit)
+3 types of interfaces, Wiegand, RS-485 and TCP/IP
+OSDP communication through RS-485
+4 digital inputs for door contact, exit button, fire contact and tamper contact
+4 relay outputs for lock, alarm, 2 LED for access granted and denied
+DC 12V, 3A / PoE+ (IEEE 802.3at)
+Suitable for controlling doors, parking gates, and elevator call buttons
+Cloud-based centralized monitoring of controllers and doors
+ONVIF (Profile C) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Cloud Bridge
+Connecting cameras to central monitoring software GV-Center V2 / GV-Cloud VMS
+Connecting cameras to recording / transmitting software GV-Recording Server / Video Gateway
+Up to 8 devices supported with GV-VPN
+Up to 8 sensor inputs and 8 alarm outputs supported from connected cameras and GV-IO Box
+Video integration with GV-Cloud Access Control via GV-AS Bridge
+Smartphone app support
+RTMP streaming on YouTube, Twitch and etc
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-DFK1355
+Access control card and PIN code recognition
+Wiegand and RS-485 interfaces
+OSDP communication through RS-485
+13.56 MHz ISO 14443A
+MIFARE® DESFire® card support
+GeoVision access cards with GID (GeoVision Identifier) support
+Ingress protection (IP66)
+Case sensor detection for tempering alarm
+12-key keypad with white backlight
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-GEBF4911
+Direct-to-Cloud
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+1/3" progressive scan CMOS sensor
+Triple streams from H.265, H.264 or MJPEG
+Min. illumination at 0.02 lux
+Up to 30 fps at 2592 x 1520
+Smart Warm LED distance up to 40 m (130 ft)
+Intelligent IR
+IR distance up to 40 m (130 ft)
+Wide Dynamic Range Pro (WDR Pro)
+Built-in microphone and speaker
+Built-in micro SD card slot (SD/SDHC/UHS-I) for local storage
+3-axis mechanism (pan / tilt / rotate)
+Ingress protection (IP66)
+Vandal resistance (IK10 for metal casing)
+DC 12V / PoE (IEEE 802.3af)
+Defog
+3D noise reduction
+GV-Center V2 connection
+AI analytics (Line Crossing, Region Entrance, Region Exiting, Target Counting, Region Intrusion, Face Detection, Heat Map)
+Active Deterrence: alarm sound and LED light triggered on AI detection events
+Smart lighting switch between IR LED (for motion detection) and Warm LED (for people detection)
+Motion detection
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Cloud Access Control
+Easy deployment of controllers with no need for on-site servers
+Cloud-based centralized monitoring of controllers and doors
+Region-specific controller and door permission settings
+Up to 100,000 cards supported
+Multiple cards per user
+Card and user enrollment in batch
+Access modes: Card only, Card and PIN code, and Passcode
+Door alarms: Held Open, Force Open, Tamper, and Fire Alarm
+Emergency lockdown
+Event alert approaches: e-mail; mobile app, web and desktop push notifications
+Log search
+Controller firmware update
+Video integration for snapshots, live view, and video playback
+E-Map to visualize and display device locations during events
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Cloud VMS
+Cloud-based centralized monitoring of cameras and surveillances systems
+Video recordings stored in the cloud
+Direct-to-cloud camera integration (no NVR / VMS required)
+ONVIF camera support via GV-Cloud Bridge
+Instant status of the host storage, I/O, and cameras
+Event search and playback
+Group-specific user and camera permission settings
+Video sharing and archiving
+E-Map to visualize and display camera locations during events
+GV-Cloud mobile app for instant alerts and remote viewing
+AI Search for AI event search by AI event type or people / vehicle attribute
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-Cloud
+Integration with GV-Cloud VMS and GV-Cloud Access Control
+Multi-channel live view of up to 16 divisions
+Playback from GV-Cloud or local hosts
+Push notifications upon events
+Access and event log query
+Output trigger to send alarms
+Fisheye dewarping for GeoVision fisheye cameras
+Controller connection and door status display
+Live viewing of cameras mapped to doors
+Remote door lock / unlock
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-REB5800
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+Realtime AI Face Recognition (attendance management, repeated visitor search)
+1/2.7" progressive scan CMOS sensor
+Triple streams from H.265, H.264
+Min. illumination at 0.003 lux
+Up to 30 fps at 2592 × 1944
+Wide Dynamic Range Pro (WDR Pro)
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Day and Night function (with removable IR-cut filter)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+3-axis mechanism (pan / tilt / rotate)
+Ingress protection (IP67)
+Vandal resistance (IK10 for metal casing)
+DC 12V / PoE (IEEE 802.3af)
+3D noise reduction
+AI analytics (Intrusion, Line Crossing, Region Entrance, Region Exiting, Face Detection, People Counting, Crowd Density Monitoring)
+Motion detection
+Tampering alarm
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-GEB4900
+Direct-to-Cloud
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+1/3" progressive scan CMOS sensor
+Triple streams from H.265, H.264 or MJPEG
+Min. illumination at 0.005 lux
+Up to 30 fps at 2592 x 1520
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Day and Night function (with removable IR-cut filter)
+Wide Dynamic Range Pro (WDR Pro)
+Ingress protection (IP67)
+3-axis mechanism (pan / tilt / rotate)
+Vandal resistance (IK10 for metal casing)
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+Two-way audio capable
+Built-in microphone
+DC 12V / PoE (IEEE 802.3af)
+Defog
+3D noise reduction
+GV-Center V2 connection
+AI analytics (Line Crossing, Region Entrance, Region Exiting, Region Intrusion, Target Counting, Heat Map, Loitering Detection, Illegal Parking Detection, Face Detection, Video Metadata)
+Motion detection
+Text overlay
+Privacy mask
+19 languages supported
+ONVIF (Profile G, S, T, M) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-GEBF4911
+Direct-to-Cloud
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+1/3" progressive scan CMOS sensor
+Triple streams from H.265, H.264 or MJPEG
+Min. illumination at 0.02 lux
+Up to 30 fps at 2592 x 1520
+Smart Warm LED distance up to 40 m (130 ft)
+Intelligent IR
+IR distance up to 40 m (130 ft)
+Wide Dynamic Range Pro (WDR Pro)
+Built-in microphone and speaker
+Built-in micro SD card slot (SD/SDHC/UHS-I) for local storage
+3-axis mechanism (pan / tilt / rotate)
+Ingress protection (IP66)
+Vandal resistance (IK10 for metal casing)
+DC 12V / PoE (IEEE 802.3af)
+Defog
+3D noise reduction
+GV-Center V2 connection
+AI analytics (Line Crossing, Region Entrance, Region Exiting, Target Counting, Region Intrusion, Face Detection, Heat Map)
+Active Deterrence: alarm sound and LED light triggered on AI detection events
+Smart lighting switch between IR LED (for motion detection) and Warm LED (for people detection)
+Motion detection
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBFC5800
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+1/2.7" progressive scan CMOS sensor
+Min. illumination at 0.001 lux
+Triple streams from H.265, H.264 or MJPEG
+Up to 30 fps at 2880 x 1620
+Full color smart warm LEDs distance up to 30 m (100 ft)
+Wide Dynamic Range Pro (WDR Pro)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UJS‐I, Class 10) for local storage
+3-axis mechanism (pan / tilt / rotate)
+Ingress protection (IP67)
+DC 12V / PoE (IEEE 802.3af)
+Defog
+AI analytics (Cross Line, Intrusion, Enter Area, Leave Area, Face Detection, People Flow Counting, Crowd Density Monitoring)
+Motion detection
+Tampering alarm
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T, M) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD8813
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+1/2.8" progressive scan CMOS sensor
+Triple streams from H.265, H.264 or MJPEG
+Min. illumination at 0.003 lux
+Up to 20 fps at 3840 x 2160
+Intelligent IR
+Day and Night function (with removable IR-cut filter)
+Motorized varifocal lens for remote focus / zoom adjustment
+3-axis mechanism (pan / tilt / rotate)
+IR distance up to 40 m (130 ft)
+Ingress protection (IP67)
+Vandal resistance (IK10 for metal casing)
+DC 12V / PoE (IEEE 802.3af)
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+Built-in microphone
+Wide Dynamic Range Pro (WDR Pro)
+AI analytics (Intrusion, Line Crossing, Region Entrance, Region Exiting, Face Detection, People Counting, Crowd Density Monitoring)
+3D noise reduction
+Motion detection
+Tampering alarm
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T, M) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD4813
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+1/3" progressive scan super low lux CMOS sensor
+Min. illumination at 0.002 lux
+Triple streams from H.265, H.264 or MJPEG
+Up to 30 fps at 2688 x 1520
+Intelligent IR
+IR distance up to 40 m (130 ft)
+Day and Night function (with removable IR-cut filter)
+Motorized varifocal lens for remote focus / zoom adjustment
+3-axis mechanism (pan / tilt / rotate)
+Wide Dynamic Range Pro (WDR Pro)
+Ingress protection (IP67)
+Vandal resistance (IK10 for metal casing)
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+Built-in microphone
+DC 12V / PoE (IEEE 802.3af)
+ONVIF (Profile G, S, T, M) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD8711
+1/2" progressive scan super low lux CMOS sensor
+Min. illumination at 0.003 lux
+Triple streams from H.265, H.264 or MJPEG
+Up to 20 fps at 3840 x 2160, 30 fps at 2944 x 1656 / 2592 x 1944 / 2560 x 1440
+Motorized varifocal lens for remote focus / zoom adjustment
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+Ingress protection (IP67)
+Vandal resistance (IK10 for metal casing)
+Day and Night function (with removable IR-cut filter)
+3-axis mechanism (pan / tilt / rotate)
+DC 12V / PoE (IEEE 802.3af)
+Wide Dynamic Range Pro (WDR Pro)
+Defog
+3D noise reduction
+Motion detection
+Tampering alarm
+Text overlay
+Privacy mask
+ONVIF (Profile G, S, T) conformant
+CE, FCC, RoHS compliant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD4712
+1/3" progressive scan super low lux CMOS sensor
+Min. illumination at 0.003 lux
+Triple streams from H.265, H.264 or MJPEG
+Up to 30 fps at 2688 x 1520
+Motorized varifocal lens for remote focus / zoom adjustment
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+3-axis mechanism (pan / tilt / rotate)
+Ingress protection (IP67)
+Vandal resistance (IK10 for metal casing)
+Day and Night function (with removable IR-cut filter)
+DC 12V / PoE (IEEE 802.3af)
+Wide Dynamic Range Pro (WDR Pro)
+Defog
+3D noise reduction
+Motion detection
+Tampering alarm
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD8800
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+1/2.7" progressive scan low lux CMOS sensor
+Min. illumination at 0.01 lux
+Triple streams from H.265, H.264 or MJPEG
+Up to 20 fps at 3840 x 2160
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Day and Night function (with removable IR-cut filter)
+3-axis mechanism (pan / tilt / rotate)
+Wide Dynamic Range Pro (WDR Pro)
+Ingress protection (IP67)
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I, Class 10) for local storage
+Built-in microphone
+DC 12V / PoE (IEEE 802.3af)
+ONVIF (Profile G, S, T, M) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD4704
+1/3" progressive scan super low lux CMOS sensor
+Dual streams from H.265, H.264 or MJPEG
+Min. illumination at 0.003 lux
+Up to 30 fps at 2688 x 1520
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+Day and Night function (with removable IR-cut filter)
+3-axis mechanism (pan / tilt / rotate)
+Wide Dynamic Range Pro (WDR Pro)
+Ingress protection (IP67)
+DC 12V / PoE (IEEE 802.3af)
+Defog
+3D noise reduction
+Motion detection
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD4701
+1/3" progressive scan super low lux CMOS sensor
+Triple streams from H.265, H.264 or MJPEG
+Min. illumination at 0.01 lux
+Up to 30 fps at 2688 x 1520
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+Day and Night function (with removable IR-cut filter)
+3-axis mechanism (pan / tilt / rotate)
+Wide Dynamic Range Pro (WDR Pro)
+Ingress protection (IP67)
+DC 12V / PoE (IEEE 802.3af)
+Defog
+3D noise reduction
+Motion detection
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD4700
+1/3" progressive scan super low lux CMOS sensor
+Min. illumination at 0.02 lux
+Up to 20 fps at 2592 x 1520, 25 fps at 2560 x 1440, 30 fps at 2048 x 1520
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Day and Night function (with removable IR-cut filter)
+3-axis mechanism (pan / tilt / rotate)
+Wide Dynamic Range Pro (WDR Pro)
+Ingress protection (IP67)
+DC 12V / PoE (IEEE 802.3af)
+Defog
+3D noise reduction
+Motion detection
+Text overlay
+Privacy mask
+ONVIF (Profile S, T) conformant
+CE, FCC, RoHS compliant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD2705
+1/2.7" progressive scan low lux CMOS sensor
+Min. illumination at 0.01 lux
+Dual streams from H.265, H.264 or MJPEG
+Up to 30 fps at 1920 × 1080
+Day and Night function (with removable IR-cut filter)
+3-axis mechanism (pan / tilt / rotate)
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+Wide Dynamic Range Pro (WDR Pro)
+Ingress protection (IP67)
+DC 12V / PoE (IEEE 802.3af)
+Defog
+3D noise reduction
+Motion detection
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T) conformant
+
+--------------------------------------------------
+
+URL: https://www.geovision.com.tw/product/GV-EBD2704
+1/2.7" progressive scan low lux CMOS sensor
+Min. illumination at 0.01 lux
+Dual streams from H.265, H.264 or MJPEG
+Up to 30 fps at 1920 × 1080
+Day and Night function (with removable IR-cut filter)
+3-axis mechanism (pan / tilt / rotate)
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+Wide Dynamic Range Pro (WDR Pro)
+Ingress protection (IP67)
+DC 12V / PoE (IEEE 802.3af)
+Defog
+3D noise reduction
+Motion detection
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T) conformant
+
+--------------------------------------------------

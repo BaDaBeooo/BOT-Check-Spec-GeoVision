@@ -1,0 +1,24 @@
+AI deep learning: AI Perimeter Protection & Classification (Human, Vehicle)
+Realtime AI Face Recognition (attendance management, repeated visitor search)
+1/2.7" progressive scan CMOS sensor
+Triple streams from H.265, H.264
+Min. illumination at 0.003 lux
+Up to 30 fps at 2592 × 1944
+Wide Dynamic Range Pro (WDR Pro)
+Intelligent IR
+IR distance up to 30 m (100 ft)
+Day and Night function (with removable IR-cut filter)
+Built-in microphone
+Built-in micro SD card slot (SD/SDHC/SDXC/UHS-I) for local storage
+3-axis mechanism (pan / tilt / rotate)
+Ingress protection (IP67)
+Vandal resistance (IK10 for metal casing)
+DC 12V / PoE (IEEE 802.3af)
+3D noise reduction
+AI analytics (Intrusion, Line Crossing, Region Entrance, Region Exiting, Face Detection, People Counting, Crowd Density Monitoring)
+Motion detection
+Tampering alarm
+Text overlay
+Privacy mask
+12 languages supported
+ONVIF (Profile G, S, T) conformant
